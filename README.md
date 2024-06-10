@@ -1,3 +1,6 @@
+## This AI demo example came from https://github.com/Azure-Samples/azure-search-openai-demo-csharp
+
+
 ---
 page_type: sample
 languages:
